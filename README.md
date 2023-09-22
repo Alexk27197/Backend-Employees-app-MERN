@@ -19,12 +19,12 @@ Backend service for the Employee MERN App, handling data storage, retrieval, and
 
 1. Clone the backend repository:
     ```bash
-    git clone https://github.com/alexk27197/employee-mern-backend.git
+    git clone https://github.com/Alexk27197/Backend-Employees-app-MERN.git
     ```
 
 2. Move into the backend directory:
     ```bash
-    cd employee-mern-backend
+    cd Backend-Employees-app-MERN
     ```
 
 3. Install dependencies:
