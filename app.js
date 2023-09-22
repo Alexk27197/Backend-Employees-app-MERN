@@ -3,6 +3,8 @@ const { dbConnect } = require("./dbConnect");
 const employeesRouter = require("./routes/employeeRoutes");
 const cors = require("cors");
 const app = express();
+const dotenv = require("dotenv");
+dotenv.config();
 
 dbConnect();
 
