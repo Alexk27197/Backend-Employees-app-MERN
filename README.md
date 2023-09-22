@@ -13,7 +13,7 @@ Backend service for the Employee MERN App, handling data storage, retrieval, and
 - **Node.js**: Runtime environment.
 - **Express**: Backend web application framework.
 - **MongoDB**: Database for storing employee records.
-- (Add any other significant libraries or tools you used.)
+
 
 ## Installation & Setup 🛠️
 
